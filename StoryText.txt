@@ -1,0 +1,262 @@
+0Start
+Welcome to Space Battles, Rebel.
+Please select one of the following options:
+1. Begin game
+2. Help
+3. Exit game
+0End
+
+5Start
+Choose your character to begin your mission:
+1. Luke Airjogger
+2. Han Single
+3. R3-D5
+4. Princess Layup
+5End
+
+6Start
+It is a period of CIVIL WARS in the galaxy. A brave alliance of underground freedom fighters has
+challenged the tyranny and oppression of the awesome GALACTIC EMPIRE. Striking from a fortress
+hidden among the billion stars of the galaxy, Rebel spaceships have won their first victory in a
+battle with the powerful Imperial Starfleet. The EMPIRE fears that another defeat could bring a
+thousand more solar systems into the REBELLION, and Imperial control over the galaxy would be lost
+forever. To crush the REBELLION once and for all, the EMPIRE is constructing a sinister new battle
+station, the DEATH GLOBE. Powerful enough to destroy an entire planet, its completion spells
+certain doom for the CHAMPIONS OF FREEDOM.
+-
+Your mission, Rebel, is to find the six pieces of the plans for the DEATH GLOBE that the EMPIRE hid inside of it.
+Once you recover all six pieces, return to the starting room to be picked up by your allies.
+Most importantly, DO NOT let Dirth Nader catch you...
+6End
+
+7Start
+You enter a room that is dimly lit by one light bulb.
+A pile of old mouse droids occupies one of the corners of the room.
+It does not look like there is much to see in this room...
+Items:
+MOUSE DROID PARTS
+Next Moves:
+N 17
+S 8
+W 14
+E 15
+7End
+
+8Start
+This room has one window, through which you can see Tatooine in the distance.
+Some sort of gas hisses out of a pipe across the room from the window.
+The ceiling is unusually low and a few steel beams are suspended from it.
+Items:
+BROKEN LIGHT BULB
+MOLDY SANDWICH
+Next Moves:
+N 7
+S 9
+8End
+
+9Start
+It looks like this used to be an old droid repair room.
+There is a large table in the center of the room where droids used to be reassembled.
+A pile of old parts and wires takes up a majority of the space in the room.
+Items:
+EXTENSION CORD
+DROID FOOT
+SCREWDRIVER
+Next Moves:
+N 8
+W 10
+9End
+
+10Start
+You enter a cluttered room with an awful smell.
+Something appears to be moving around beneath all the rubbish.
+It almost looks like the walls could begin closing in at any moment...
+Items:
+PLASTIC SPOON
+FIRST PIECE OF THE PLANS
+CANDY BAR WRAPPER
+Next Moves:
+W 11
+E 9
+10End
+
+11Start
+This room is a cantina, although it is oddly quiet for this time of day.
+The cantina band is over in the corner taking song requests.
+A few Stormtroopers are sitting at the bar drinking bantha milk, but none of them appear to notice you...
+Items:
+BANTHA MILK
+BOWL OF OLIVES
+OBOE
+BAR STOOL
+Next Moves:
+N 12
+E 10
+11End
+
+12Start
+This looks like the operating room that was used to nurse Dirth Nader back to life.
+There are quite a few spare parts and tools laying around on the operating table.
+The room is much cleaner than all the other rooms you've been in so far.
+Items:
+SCALPEL
+HAZMAT SUIT
+SECOND PIECE OF THE PLANS
+SURGICAL MASK
+Next Moves:
+N 13
+S 11
+12End
+
+13Start
+When you enter this room, you hear a lot of commotion.
+It looks like a line of cells holding Rebel prisoners captive.
+If only you could do something to help...
+Items:
+Next Moves:
+E 14
+S 12
+13End
+
+14Start
+You enter a room bustling with activity.
+Stormtroopers are walking around getting orders from their commanding officers.
+It looks like the command center for the DEATH GLOBE's main weapons system.
+Items:
+TROOPER HELMET
+THIRD PIECE OF THE PLANS
+LASER POINTER
+Next Moves:
+E 7
+W 13
+14End
+
+15Start
+This room is fairly empty, except for a few dummies dressed as Rebels.
+There are a few targets set up at the far end of the room for shooting practice.
+Judging by the cobwebs in the room and Stormtroopers' notoriously bad aim,
+you assume that this room does not see much action.
+Items:
+DUMMY'S HAND
+KEY
+PAPER TARGET
+Next Moves:
+W 7
+15End
+
+17Start
+You enter a large, open room that is filled with ships of all kinds.
+Imperial fighter pilots are running around the room, preparing their ships for battle.
+Wait, is that the Millennium Eagle over there?
+Items:
+CANISTER OF JET FUEL
+WRENCH
+PILOT GOGGLES
+Next Moves:
+S 7
+NW 18
+17End
+
+18Start
+This appears to be some sort of control center.
+No one else is in the room and all the buttons on the panel are dimmed.
+One of the screens displays an image of the current location of the DEATH GLOBE in the galaxy.
+Items:
+CLIPBOARD
+HIGH-TECH PEN
+Next Moves:
+W 21
+NE 19
+NW 22
+SE 17
+18End
+
+19Start
+This room is packed with weaponry of all kinds.
+Explosives line the walls on the left and blasters hang on the right.
+Unfortunately, you can see the security lasers that protect these items from being stolen.
+Items:
+WATER GUN
+FOAM DART
+FOURTH PIECE OF THE PLANS
+Next Moves:
+SW 18
+19End
+
+21Start
+This appears to be a launching room for escape pods.
+There are locations for three pods, but they are all empty.
+A red warning light flickers off and on above the first set of airlocked doors.
+Items:
+TOY SPACESHIP
+EMERGENCY RATIONS
+PARACHUTE BACKPACK
+Next Moves:
+N 22
+E 18
+21End
+
+22Start
+This room is pretty plain and boring.
+The walls are grey with the EMPIRE's logo painted in red.
+The floor has arrows pointing to a room with some sort of logo with a circle and slash around it...
+Items:
+FANCY CUFF LINKS
+Next Moves:
+N 24
+SE 18
+S 21
+22End
+
+24Start
+Upon entering this room, a sinister, cloaked figure turns around to face you.
+Yikes! It is Dirth Nader!
+His raspy breathing grows louder as he slowly walks towards you, lightsword in hand.
+Items:
+RUBBER DUCK
+SIXTH PIECE OF THE PLANS
+PRE-SCHOOL DIPLOMA
+Next Moves:
+S 22
+24End
+
+199Start
+Game paused, Rebel.
+Please select one of the following options:
+1. Resume game
+2. Help
+3. View inventory
+4. Exit game
+199End
+
+200Start
+You search the room more closely...
+200End
+
+255Start
+To play the game, enter the keyword that corresponds to the action you wish to take.
+-
+For example:
+To pick up an object, use the keyword "pick". You will then be asked what you want to pick up.
+To search a room, use the keyword "search". The game will then show you all items in the room (if there are any).
+If you do not want to do any more actions in a room, use any of the following keywords:
+BACK, EXIT, ESCAPE or NONE
+-
+NOTE: There are some hidden keywords that do special actions. See if you can figure them out!
+-
+To move your character through the map, use the following keys:
+N = north
+S = south
+E = east
+W = west
+Or use any combination of these keys (for example, NW = northwest).
+NOTE: You may not be able to move your character in every possible direction depending on where you are on the map.
+255End
+
+400Start
+-
+Congratulations, Rebel! You recovered all six pieces of the plans for the evil DEATH GLOBE.
+This is an incredible victory for the REBELLION and a devastating loss for the EMPIRE.
+-
+A hatch opens above your head and a Rebel ship swoops in to extract you. C-5PO calls for you to climb in.
+400End
